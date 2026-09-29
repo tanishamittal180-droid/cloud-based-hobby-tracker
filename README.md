@@ -433,11 +433,13 @@ The project can be expanded with:
 Recommended screenshots for the GitHub repository:
 
 <img width="1366" height="768" alt="Screenshot 2026-09-29 173323" src="https://github.com/user-attachments/assets/a9d74e95-6de5-4b67-9982-affde08008ac" />
-<img width="1366" height="768" alt="Screenshot 2026-09-29 173631" src="https://github.com/user-attachments/assets/857eb5b0-ecb2-4156-94f8-eb47e0184458" />
-<img width="1366" height="768" alt="Screenshot 2026-09-29 173640" src="https://github.com/user-attachments/assets/b9eb82b5-19cd-4878-ac15-15eab5799e26" />
+<img width="1366" height="768" alt="Screenshot 2026-09-29 173621" src="https://github.com/user-attachments/assets/4ac4cac4-4954-426e-af70-6ea345c4d02b" />
+
 <img width="1366" height="768" alt="Screenshot 2026-09-29 174155" src="https://github.com/user-attachments/assets/fb339c5e-ced1-400f-b699-8423acc9876f" />
 <img width="1366" height="768" alt="Screenshot 2026-09-29 173649" src="https://github.com/user-attachments/assets/13d0572e-1943-431c-b485-a5e0a66c06a2" />
+<img width="1366" height="768" alt="Screenshot 2026-09-29 174207" src="https://github.com/user-attachments/assets/5f0cf206-9940-4341-9d1c-32709bcd4392" />
 
+<img width="1366" height="768" alt="Screenshot 2026-09-28 215548" src="https://github.com/user-attachments/assets/dfbabad6-44ce-4050-9c77-9ba65abeabb1" />
 
 Add them to the README using:
 
