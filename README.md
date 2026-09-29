@@ -439,7 +439,6 @@ Recommended screenshots for the GitHub repository:
 <img width="1366" height="768" alt="Screenshot 2026-09-29 173649" src="https://github.com/user-attachments/assets/13d0572e-1943-431c-b485-a5e0a66c06a2" />
 <img width="1366" height="768" alt="Screenshot 2026-09-29 174207" src="https://github.com/user-attachments/assets/5f0cf206-9940-4341-9d1c-32709bcd4392" />
 
-<img width="1366" height="768" alt="Screenshot 2026-09-28 215548" src="https://github.com/user-attachments/assets/dfbabad6-44ce-4050-9c77-9ba65abeabb1" />
 
 Add them to the README using:
 
